@@ -1,0 +1,152 @@
+[
+ {
+  "code": "sqld",
+  "name": "SQLD",
+  "short": "SQLD",
+  "org": "한국데이터산업진흥원",
+  "minutes": 90,
+  "pass_total": 60,
+  "pass_subject": 40,
+  "color": "#5eead4",
+  "description": "SQL 개발자. 데이터 모델링과 SQL 활용 능력을 검증하는 국가공인 자격",
+  "exam_note": "객관식 50문항 · 90분 · 총점 60점 이상 + 과목별 40% 이상",
+  "subjects": [
+   {
+    "no": 1,
+    "name": "데이터 모델링의 이해",
+    "count": 10
+   },
+   {
+    "no": 2,
+    "name": "SQL 기본 및 활용",
+    "count": 40
+   }
+  ]
+ },
+ {
+  "code": "eip",
+  "name": "정보처리기사 필기",
+  "short": "정처기",
+  "org": "한국산업인력공단",
+  "minutes": 150,
+  "pass_total": 60,
+  "pass_subject": 40,
+  "color": "#60a5fa",
+  "description": "소프트웨어 설계부터 정보시스템 구축 관리까지, IT 직무 대표 국가기술자격",
+  "exam_note": "객관식 100문항(5과목 x 20) · 150분 · 평균 60점 이상 + 과목별 40점 이상",
+  "subjects": [
+   {
+    "no": 1,
+    "name": "소프트웨어 설계",
+    "count": 20
+   },
+   {
+    "no": 2,
+    "name": "소프트웨어 개발",
+    "count": 20
+   },
+   {
+    "no": 3,
+    "name": "데이터베이스 구축",
+    "count": 20
+   },
+   {
+    "no": 4,
+    "name": "프로그래밍 언어 활용",
+    "count": 20
+   },
+   {
+    "no": 5,
+    "name": "정보시스템 구축 관리",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "code": "adsp",
+  "name": "ADsP 데이터분석 준전문가",
+  "short": "ADsP",
+  "org": "한국데이터산업진흥원",
+  "minutes": 90,
+  "pass_total": 60,
+  "pass_subject": 40,
+  "color": "#a78bfa",
+  "description": "데이터 이해·분석 기획·통계/데이터마이닝 기초를 검증하는 국가공인 자격",
+  "exam_note": "객관식 50문항 · 90분 · 총점 60점 이상 + 과목별 40% 이상",
+  "subjects": [
+   {
+    "no": 1,
+    "name": "데이터 이해",
+    "count": 10
+   },
+   {
+    "no": 2,
+    "name": "데이터 분석 기획",
+    "count": 10
+   },
+   {
+    "no": 3,
+    "name": "데이터 분석",
+    "count": 30
+   }
+  ]
+ },
+ {
+  "code": "linux2",
+  "name": "리눅스마스터 2급",
+  "short": "리눅스2급",
+  "org": "KAIT",
+  "minutes": 100,
+  "pass_total": 60,
+  "pass_subject": 40,
+  "color": "#fbbf24",
+  "description": "리눅스 운영·관리와 활용 능력을 검증하는 국가공인 자격 (모의고사는 2차 필기 기준)",
+  "exam_note": "2차 필기 기준 사지선다 80문항 · 100분 · 60점 이상 + 과목별 40% 이상",
+  "subjects": [
+   {
+    "no": 1,
+    "name": "리눅스 운영 및 관리",
+    "count": 48
+   },
+   {
+    "no": 2,
+    "name": "리눅스 활용",
+    "count": 32
+   }
+  ]
+ },
+ {
+  "code": "net2",
+  "name": "네트워크관리사 2급 필기",
+  "short": "네관2급",
+  "org": "ICQA",
+  "minutes": 50,
+  "pass_total": 60,
+  "pass_subject": null,
+  "color": "#f472b6",
+  "description": "네트워크 일반·TCP/IP·NOS·운용기기 지식을 검증하는 국가공인 자격",
+  "exam_note": "객관식 50문항 · 50분 · 100점 만점 60점 이상 (과락 없음)",
+  "subjects": [
+   {
+    "no": 1,
+    "name": "네트워크 일반",
+    "count": 15
+   },
+   {
+    "no": 2,
+    "name": "TCP/IP",
+    "count": 15
+   },
+   {
+    "no": 3,
+    "name": "NOS",
+    "count": 10
+   },
+   {
+    "no": 4,
+    "name": "네트워크 운용기기",
+    "count": 10
+   }
+  ]
+ }
+]
